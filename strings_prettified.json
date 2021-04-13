@@ -12208,7 +12208,7 @@
     "pt": "Opening remote product catalogue..."
   },
   "IgnoreEndbrackets": {
-    "de": "Keine Endwinkel-Prüfung",
+    "de": "Endwinkel ignorieren",
     "en": "No end bracket verification",
     "es": "No end bracket verification",
     "it": "No end bracket verification",
@@ -12864,7 +12864,7 @@
     "pt": "Fix length:"
   },
   "SkipSeparatorCheck": {
-    "de": "Keine Trennplatten-Prüfung",
+    "de": "Trenn- und Abschlussplatten ignorieren",
     "en": "No separator verification",
     "es": "No separator verification",
     "it": "No separator verification",
