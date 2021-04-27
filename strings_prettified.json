@@ -6209,7 +6209,7 @@
   },
   "CTVTWizard": {
     "de": "Wandler-Reihenklemmenblock",
-    "en": "Transformer Terminal Block",
+    "en": "Instrument Transformer Terminal Block",
     "es": "Bornes para transformadores",
     "it": "Please translate here",
     "fr": "Blocs de jonctions pour transformateurs",
@@ -6217,11 +6217,11 @@
     "pl": "Złączki Kontrolno-Pomiarowe",
     "ru": "Клеммы для трансформаторов",
     "ko": "변압기용 터미널 블록",
-    "cs": "Transformer Terminal Block",
+    "cs": "Instrument Transformer Terminal Block",
     "zhCN": "电流测试端子",
     "zhHant": "電流測試端子。",
     "ja": "変流器/変圧器用端子台",
-    "pt": "Transformer Terminal Block"
+    "pt": "Instrument Transformer Terminal Block"
   },
   "AddProductFeature_": {
     "de": "Produktmerkmal hinzufügen...",
